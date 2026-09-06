@@ -116,9 +116,3 @@ Independently verifies KV cache footprint ($114{,}688\text{ bytes/tok}$), concur
 
 ```bash
 python partB/verify_bench.py ../starter_kit/bench/bench_log.csv
-
-```
-
-```
-
-```
