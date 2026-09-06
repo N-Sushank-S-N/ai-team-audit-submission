@@ -1,0 +1,5 @@
+tokenizer,lang,tok_per_sentence,tok_per_word,tok_per_grapheme,tok_per_byte,tok_per_char,total_tokens,total_words,total_bytes
+gpt2,eng,26.72,1.23,0.20,0.2047,0.2049,27044,21901,132096
+gpt2,hin,198.31,7.83,2.33,0.5947,1.5299,200688,25643,337439
+gpt2,kan,363.01,22.82,4.07,0.9788,2.6616,367366,16100,375341
+gpt2,tam,415.19,25.05,4.21,0.9965,2.7261,420171,16775,421635

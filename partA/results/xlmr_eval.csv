@@ -1,0 +1,5 @@
+tokenizer,lang,tok_per_sentence,tok_per_word,tok_per_grapheme,tok_per_byte,tok_per_char,total_tokens,total_words,total_bytes
+hf:xlm-roberta-base,eng,30.30,1.40,0.23,0.2321,0.2323,30661,21901,132096
+hf:xlm-roberta-base,hin,37.77,1.49,0.44,0.1133,0.2914,38221,25643,337439
+hf:xlm-roberta-base,kan,40.97,2.58,0.46,0.1105,0.3004,41459,16100,375341
+hf:xlm-roberta-base,tam,40.86,2.47,0.41,0.0981,0.2683,41354,16775,421635

@@ -1,0 +1,85 @@
+{
+  "tokenizer": "gpt2",
+  "results": {
+    "eng": {
+      "micro": {
+        "tok_per_sentence": 26.723320158102766,
+        "tok_per_word": 1.2348294598420164,
+        "tok_per_grapheme": 0.2049315732840277,
+        "tok_per_byte": 0.2047298934108527,
+        "tok_per_char": 0.2049315732840277,
+        "total_tokens": 27044,
+        "total_words": 21901,
+        "total_graphemes": 131966,
+        "total_bytes": 132096,
+        "total_chars": 131966,
+        "sentences": 1012
+      },
+      "macro": {
+        "tok_per_word": 1.2444278318059754,
+        "tok_per_grapheme": 0.20700197182994035,
+        "tok_per_byte": 0.20680162204514005
+      }
+    },
+    "hin": {
+      "micro": {
+        "tok_per_sentence": 198.3083003952569,
+        "tok_per_word": 7.826229380337714,
+        "tok_per_grapheme": 2.334748769733704,
+        "tok_per_byte": 0.5947386046070549,
+        "tok_per_char": 1.5298673578289372,
+        "total_tokens": 200688,
+        "total_words": 25643,
+        "total_graphemes": 85957,
+        "total_bytes": 337439,
+        "total_chars": 131180,
+        "sentences": 1012
+      },
+      "macro": {
+        "tok_per_word": 7.8665256879327,
+        "tok_per_grapheme": 2.3405042040658173,
+        "tok_per_byte": 0.5947444385394686
+      }
+    },
+    "kan": {
+      "micro": {
+        "tok_per_sentence": 363.0098814229249,
+        "tok_per_word": 22.81776397515528,
+        "tok_per_grapheme": 4.065087251441281,
+        "tok_per_byte": 0.9787526542530659,
+        "tok_per_char": 2.6615517253870618,
+        "total_tokens": 367366,
+        "total_words": 16100,
+        "total_graphemes": 90371,
+        "total_bytes": 375341,
+        "total_chars": 138027,
+        "sentences": 1012
+      },
+      "macro": {
+        "tok_per_word": 23.017987645969463,
+        "tok_per_grapheme": 4.065391594654953,
+        "tok_per_byte": 0.9785780882099459
+      }
+    },
+    "tam": {
+      "micro": {
+        "tok_per_sentence": 415.1887351778656,
+        "tok_per_word": 25.047451564828613,
+        "tok_per_grapheme": 4.213338815129758,
+        "tok_per_byte": 0.9965278024831904,
+        "tok_per_char": 2.7260641921482374,
+        "total_tokens": 420171,
+        "total_words": 16775,
+        "total_graphemes": 99724,
+        "total_bytes": 421635,
+        "total_chars": 154131,
+        "sentences": 1012
+      },
+      "macro": {
+        "tok_per_word": 25.250813651258785,
+        "tok_per_grapheme": 4.214527612426118,
+        "tok_per_byte": 0.9961231642984066
+      }
+    }
+  }
+}
