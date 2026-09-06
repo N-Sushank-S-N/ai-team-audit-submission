@@ -1,8 +1,3 @@
-The layout broke into a single squished line because non-breaking spaces and collapsed linebreaks made GitHub's Markdown parser choke on the directory tree and the quickstart commands.
-
-Here is a rebuilt, highly readable version with your live Desmos link integrated:
-
-```markdown
 # 🔍 AI Team Audit: Tokenizer Economics & Serving Capacity Reconciliation
 
 [![Submission Status](https://img.shields.io/badge/Audit_Status-Complete_%26_Verified-success.svg)](#)
